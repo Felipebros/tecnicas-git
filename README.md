@@ -22,3 +22,4 @@
         merge feature/master/1-feat-tarefa-dev
         commit id: "outros novos commits em dev"
 ```
+Documentação para criar gráficos git com Mermaid Chart https://mermaid.js.org/syntax/gitgraph.html
